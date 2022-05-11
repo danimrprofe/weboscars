@@ -1,0 +1,27 @@
+
+
+    body {
+        font-family: "Lato", sans-serif;
+        max-width: 980px;
+        margin-top: 46px;
+        margin-left: 50px;
+        margin-right: 50px;
+        font-family: Verdana, sans-serif;
+        font-size: 15px;
+        line-height: 1.5;
+    }
+
+    h1{
+        background-color:#EDA909;
+        padding:10px;
+        text-align: center;
+    }
+
+    h2{
+        background-color:#8CE0EB;
+        font-weight: 400;
+        padding: 10px;
+    }
+    h3{
+        font-weight: 200;
+    }
